@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 lolo
 add from web site
 new change
+=======
+lolo
+>>>>>>> parent of 2a92673... Update open.txt
